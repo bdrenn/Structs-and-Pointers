@@ -4,7 +4,6 @@
  Project Name: Prog 2 - Structs and Pointers
  Due Date: 10/17/2018
  */
-
 #ifndef myDate_hpp
 #define myDate_hpp
 
